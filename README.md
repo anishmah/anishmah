@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 [![trophy](https://github-profile-trophy.vercel.app/?username=anishmah&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anish's github stats](https://github-readme-stats.vercel.app/api?username=anishmah&theme=dracula&show_icons=true)](https://github.com/arjunghimire/github-readme-stats)
+[![Anish's github stats](https://github-readme-stats.vercel.app/api?username=anishmah&theme=dracula&show_icons=true)](https://github.com/anishmah/github-readme-stats)
